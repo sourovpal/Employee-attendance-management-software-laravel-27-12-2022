@@ -1,0 +1,32 @@
+[12-Dec-2022 16:27:46 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/sourovpa/public_html/routes/web.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/sourovpa/public_html/routes/web.php on line 22
+[12-Dec-2022 16:27:54 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/sourovpa/public_html/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/sourovpa/public_html/routes/console.php on line 17
+[12-Dec-2022 16:28:03 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/sourovpa/public_html/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/sourovpa/public_html/routes/channels.php on line 16
+[12-Dec-2022 16:28:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/sourovpa/public_html/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/sourovpa/public_html/routes/api.php on line 17
+[12-Dec-2022 17:25:51 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/sourovpa/public_html/routes/web.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/sourovpa/public_html/routes/web.php on line 22
+[12-Dec-2022 17:26:43 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/sourovpa/public_html/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/sourovpa/public_html/routes/console.php on line 17
+[12-Dec-2022 17:26:52 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/sourovpa/public_html/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/sourovpa/public_html/routes/channels.php on line 16
+[12-Dec-2022 17:26:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/sourovpa/public_html/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/sourovpa/public_html/routes/api.php on line 17

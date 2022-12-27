@@ -1,0 +1,12 @@
+[16-Dec-2022 21:44:02 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/sourovpa/public_html/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/sourovpa/public_html/database/seeders/DatabaseSeeder.php on line 7
+[16-Dec-2022 21:52:53 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/sourovpa/public_html/database/seeders/PermissionSeeder.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/sourovpa/public_html/database/seeders/PermissionSeeder.php on line 10
+[16-Dec-2022 22:11:28 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/sourovpa/public_html/database/seeders/UserSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/sourovpa/public_html/database/seeders/UserSeeder.php on line 7

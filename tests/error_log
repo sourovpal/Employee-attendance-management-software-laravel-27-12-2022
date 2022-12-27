@@ -1,0 +1,8 @@
+[12-Dec-2022 16:26:24 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Testing\TestCase" not found in /home/sourovpa/public_html/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/sourovpa/public_html/tests/TestCase.php on line 7
+[12-Dec-2022 17:27:10 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Testing\TestCase" not found in /home/sourovpa/public_html/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/sourovpa/public_html/tests/TestCase.php on line 7

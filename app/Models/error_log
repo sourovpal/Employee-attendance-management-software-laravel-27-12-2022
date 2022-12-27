@@ -1,0 +1,24 @@
+[26-Dec-2022 17:35:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/sourovpa/public_html/app/Models/Attendance.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/sourovpa/public_html/app/Models/Attendance.php on line 8
+[26-Dec-2022 17:35:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/sourovpa/public_html/app/Models/Branch.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/sourovpa/public_html/app/Models/Branch.php on line 8
+[26-Dec-2022 17:35:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/sourovpa/public_html/app/Models/Leave.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/sourovpa/public_html/app/Models/Leave.php on line 8
+[26-Dec-2022 17:35:14 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\Permission\Models\Role" not found in /home/sourovpa/public_html/app/Models/Role.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/sourovpa/public_html/app/Models/Role.php on line 7
+[26-Dec-2022 17:35:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/sourovpa/public_html/app/Models/Schedule.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/sourovpa/public_html/app/Models/Schedule.php on line 8
+[26-Dec-2022 17:35:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/sourovpa/public_html/app/Models/User.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/sourovpa/public_html/app/Models/User.php on line 13

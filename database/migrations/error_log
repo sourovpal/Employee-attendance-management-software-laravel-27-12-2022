@@ -1,0 +1,32 @@
+[19-Dec-2022 03:00:37 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/sourovpa/public_html/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/sourovpa/public_html/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[19-Dec-2022 05:18:44 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/sourovpa/public_html/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/sourovpa/public_html/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[19-Dec-2022 11:37:41 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/sourovpa/public_html/database/migrations/2019_08_19_000000_create_failed_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/sourovpa/public_html/database/migrations/2019_08_19_000000_create_failed_jobs_table.php on line 7
+[19-Dec-2022 14:14:34 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/sourovpa/public_html/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/sourovpa/public_html/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php on line 7
+[19-Dec-2022 19:01:54 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/sourovpa/public_html/database/migrations/2022_12_10_010859_create_permission_tables.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/sourovpa/public_html/database/migrations/2022_12_10_010859_create_permission_tables.php on line 8
+[20-Dec-2022 20:15:00 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/sourovpa/public_html/database/migrations/2022_12_11_120121_create_branches_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/sourovpa/public_html/database/migrations/2022_12_11_120121_create_branches_table.php on line 7
+[25-Dec-2022 23:00:34 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/sourovpa/public_html/database/migrations/2022_12_14_180839_create_attendances_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/sourovpa/public_html/database/migrations/2022_12_14_180839_create_attendances_table.php on line 7
+[25-Dec-2022 23:33:39 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/sourovpa/public_html/database/migrations/2022_12_17_193533_create_schedules_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/sourovpa/public_html/database/migrations/2022_12_17_193533_create_schedules_table.php on line 7
